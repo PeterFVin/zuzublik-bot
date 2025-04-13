@@ -17,7 +17,7 @@ git clone https://github.com/PeterFVin/zuzublik-bot.git
 Развернуть виртуальные окружение:
 
 ```
-python -m venv venv (для mac/linux: python3 -m venv venv)
+python -m venv venv (для mac/linux: python3 -m venv venv)  
 .\venv\Scripts\activate  (для mac/linux: source venv/bin/activate)
 ```
 
@@ -38,4 +38,3 @@ TELEGRAM_TOKEN=<Токен Вашего бота>
 ```
 
 python main.py
-```
